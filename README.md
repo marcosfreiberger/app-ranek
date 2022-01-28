@@ -1,6 +1,6 @@
 <h1 align = "center"> :fast_forward: Ranek :rewind: </h1>
 
-Para visualizar o projeto acesse:
+Para visualizar o projeto acesse: https://marcosfreiberger.github.io/app-ranek/
 
 ## 📖 Sobre
 
